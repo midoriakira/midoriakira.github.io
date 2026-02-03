@@ -46,7 +46,14 @@
     "href": "index.html",
     "title": "Akira Sakurai Homepage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Ph.D student at Kyoto University. My research focus is mainly on blockchain, although I am broadly interested in all aspects of computer science."
+  },
+  {
+    "objectID": "index.html#grants",
+    "href": "index.html#grants",
+    "title": "Akira Sakurai Homepage",
+    "section": "Grants",
+    "text": "Grants\n\nDC1, JSPS KAKENHI (Project No. 24KJ1517), Kyoto University, Apr 23, 2024 – Mar 31, 2027\nProject: “ネットワークの観点からの分散台帳の研究”"
   },
   {
     "objectID": "contact.html",
