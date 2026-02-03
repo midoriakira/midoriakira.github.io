@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://midoriakira.github.io/my_site/about.html</loc>
-    <lastmod>2026-02-03T07:40:10.554Z</lastmod>
+    <lastmod>2026-02-03T08:18:26.669Z</lastmod>
   </url>
   <url>
-    <loc>https://midoriakira.github.io/my_site/contact.html</loc>
-    <lastmod>2026-02-03T07:40:10.554Z</lastmod>
+    <loc>https://midoriakira.github.io/my_site/cv.html</loc>
+    <lastmod>2026-02-03T08:18:26.669Z</lastmod>
   </url>
   <url>
     <loc>https://midoriakira.github.io/my_site/index.html</loc>
-    <lastmod>2026-02-03T07:40:10.554Z</lastmod>
+    <lastmod>2026-02-03T08:18:26.669Z</lastmod>
+  </url>
+  <url>
+    <loc>https://midoriakira.github.io/my_site/contact.html</loc>
+    <lastmod>2026-02-03T08:18:26.669Z</lastmod>
   </url>
   <url>
     <loc>https://midoriakira.github.io/my_site/publications.html</loc>
-    <lastmod>2026-02-03T07:40:10.554Z</lastmod>
+    <lastmod>2026-02-03T08:18:26.669Z</lastmod>
   </url>
 </urlset>
