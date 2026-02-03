@@ -49,6 +49,34 @@
     "text": "I am a Ph.D student at Kyoto University. My research focus is mainly on blockchain, although I am broadly interested in all aspects of computer science."
   },
   {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Akira Sakurai Homepage",
+    "section": "Education",
+    "text": "Education\n\nPh.D. Student, Graduate School of Informatics, Kyoto University\n2024–present\nAdvisor: Kazuyuki Shudo\nM.S., Mathematical and Computing Science (Shudo Lab.), Tokyo Institute of Technology\n2022–2024\nB.S., Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology\n2019–2022"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Akira Sakurai Homepage",
+    "section": "Publications",
+    "text": "Publications\nSee Publications page."
+  },
+  {
+    "objectID": "index.html#awards-honors",
+    "href": "index.html#awards-honors",
+    "title": "Akira Sakurai Homepage",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nBest Student Paper Award, IEEE ICCE 2023 — “Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain”"
+  },
+  {
+    "objectID": "index.html#grants",
+    "href": "index.html#grants",
+    "title": "Akira Sakurai Homepage",
+    "section": "Grants",
+    "text": "Grants\n\nDC1, JSPS KAKENHI (Project No. 24KJ1517), Kyoto University, Apr 23, 2024 – Mar 31, 2027\nProject: “ネットワークの観点からの分散台帳の研究”"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -60,13 +88,27 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Hasegawa, Tsuyoshi, Akira Sakurai, and Kazuyuki Shudo. 2023. “Quick Notification of Block Generation Using Bloom Filter in a Blockchain.” In 2023 IEEE Symposium on Computers and Communications (ISCC), 457–63. https://doi.org/10.1109/ISCC58397.2023.10218308.\n\n\nMasuda, Shinnosuke, Tsuyoshi Hasegawa, Taishi Nakai, Akira Sakurai, and Kazuyuki Shudo. 2024. “High-Bandwidth Node Selection in Compact Block Relay.” In 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics, 454–58. https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00088.\n\n\nNakai, Taishi, Akira Sakurai, Shiori Hironaka, and Kazuyuki Shudo. 2023. “The Blockchain Trilemma Described by a Formula.” In 2023 IEEE International Conference on Blockchain (Blockchain), 41–46. https://doi.org/10.1109/Blockchain60715.2023.00016.\n\n\n———. 2024. “A Formulation of the Trilemma in Proof of Work Blockchain.” IEEE Access 12: 80559–78. https://doi.org/10.1109/ACCESS.2024.3410025.\n\n\nNakai, Taishi, Akira Sakurai, and Kazuyuki Shudo. 2025. “The More Halving Advances, the More Rational Double Spending Attack Is.” In 2025 IEEE International Conference on Consumer Electronics (ICCE), 1–6. https://doi.org/10.1109/ICCE63647.2025.10930125.\n\n\nSakurai, Akira, and Kazuyuki Shudo. 2023a. “Accelerating Block Propagation with Sender Switchover in a Blockchain.” In 2023 IEEE Symposium on Computers and Communications (ISCC), 1086–89. https://doi.org/10.1109/ISCC58397.2023.10217880.\n\n\n———. 2023b. “Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain.” In 2023 IEEE International Conference on Consumer Electronics (ICCE), 1–4. https://doi.org/10.1109/ICCE56470.2023.10043538.\n\n\n———. 2024a. “A Fully Local Last-Generated Rule in a Blockchain.” https://arxiv.org/abs/2411.08439.\n\n\n———. 2024b. “Tie-Breaking Rule Based on Partial Proof of Work in a Blockchain.” IEEE Access 12: 197999–8014. https://doi.org/10.1109/ACCESS.2024.3521426.\n\n\n———. 2025a. “FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining.” https://arxiv.org/abs/2501.15459.\n\n\n———. 2025b. “Model-Based Calculation Method of Mining Fairness in Blockchain.” https://arxiv.org/abs/2406.00595.\n\n\n———. 2025c. “The Rich Get Richer in Bitcoin Mining Induced by Blockchain Forks.” https://arxiv.org/abs/2506.13360.\n\n\n———. 2026.“Model-Based Calculation Method of Mining Fairness in Blockchain .” IEEE Open Journal of the Computer Society 7 (01): 129–41. https://doi.org/10.1109/OJCS.2025.3644694.\n\n\nShudo, Kazuyuki, Tsuyoshi Hasegawa, Akira Sakurai, and Ryohei Banno. 2023. “Blockchain Network Studies Enabled by SimBlock.” In 2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1–2. https://doi.org/10.1109/ICBC56567.2023.10174929."
+    "text": "[1] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[2] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[3] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
   },
   {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Hasegawa, Tsuyoshi, Akira Sakurai, and Kazuyuki Shudo. 2023. “Quick Notification of Block Generation Using Bloom Filter in a Blockchain.” In 2023 IEEE Symposium on Computers and Communications (ISCC), 457–63. https://doi.org/10.1109/ISCC58397.2023.10218308.\n\n\nMasuda, Shinnosuke, Tsuyoshi Hasegawa, Taishi Nakai, Akira Sakurai, and Kazuyuki Shudo. 2024. “High-Bandwidth Node Selection in Compact Block Relay.” In 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics, 454–58. https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00088.\n\n\nNakai, Taishi, Akira Sakurai, Shiori Hironaka, and Kazuyuki Shudo. 2023. “The Blockchain Trilemma Described by a Formula.” In 2023 IEEE International Conference on Blockchain (Blockchain), 41–46. https://doi.org/10.1109/Blockchain60715.2023.00016.\n\n\n———. 2024. “A Formulation of the Trilemma in Proof of Work Blockchain.” IEEE Access 12: 80559–78. https://doi.org/10.1109/ACCESS.2024.3410025.\n\n\nNakai, Taishi, Akira Sakurai, and Kazuyuki Shudo. 2025. “The More Halving Advances, the More Rational Double Spending Attack Is.” In 2025 IEEE International Conference on Consumer Electronics (ICCE), 1–6. https://doi.org/10.1109/ICCE63647.2025.10930125.\n\n\nSakurai, Akira, and Kazuyuki Shudo. 2023a. “Accelerating Block Propagation with Sender Switchover in a Blockchain.” In 2023 IEEE Symposium on Computers and Communications (ISCC), 1086–89. https://doi.org/10.1109/ISCC58397.2023.10217880.\n\n\n———. 2023b. “Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain.” In 2023 IEEE International Conference on Consumer Electronics (ICCE), 1–4. https://doi.org/10.1109/ICCE56470.2023.10043538.\n\n\n———. 2024a. “A Fully Local Last-Generated Rule in a Blockchain.” https://arxiv.org/abs/2411.08439.\n\n\n———. 2024b. “Tie-Breaking Rule Based on Partial Proof of Work in a Blockchain.” IEEE Access 12: 197999–8014. https://doi.org/10.1109/ACCESS.2024.3521426.\n\n\n———. 2025a. “FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining.” https://arxiv.org/abs/2501.15459.\n\n\n———. 2025b. “Model-Based Calculation Method of Mining Fairness in Blockchain.” https://arxiv.org/abs/2406.00595.\n\n\n———. 2025c. “The Rich Get Richer in Bitcoin Mining Induced by Blockchain Forks.” https://arxiv.org/abs/2506.13360.\n\n\n———. 2026.“Model-Based Calculation Method of Mining Fairness in Blockchain .” IEEE Open Journal of the Computer Society 7 (01): 129–41. https://doi.org/10.1109/OJCS.2025.3644694.\n\n\nShudo, Kazuyuki, Tsuyoshi Hasegawa, Akira Sakurai, and Ryohei Banno. 2023. “Blockchain Network Studies Enabled by SimBlock.” In 2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1–2. https://doi.org/10.1109/ICBC56567.2023.10174929."
+    "text": "[1] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[2] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[3] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\n\n[1] T. Nakai, A. Sakurai, and K. Shudo, “The more halving advances, the more rational double spending attack is,” in 2025 IEEE international conference on consumer electronics (ICCE), 2025, pp. 1–6. doi: 10.1109/ICCE63647.2025.10930125.\n\n\n[2] S. Masuda, T. Hasegawa, T. Nakai, A. Sakurai, and K. Shudo, “High-bandwidth node selection in compact block relay,” in 2024 IEEE international conferences on internet of things (iThings) and IEEE green computing & communications (GreenCom) and IEEE cyber, physical & social computing (CPSCom) and IEEE smart data (SmartData) and IEEE congress on cybermatics, 2024, pp. 454–458. doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00088.\n\n\n[3] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “The blockchain trilemma described by a formula,” in 2023 IEEE international conference on blockchain (blockchain), 2023, pp. 41–46. doi: 10.1109/Blockchain60715.2023.00016.\n\n\n[4] K. Shudo, T. Hasegawa, A. Sakurai, and R. Banno, “Blockchain network studies enabled by SimBlock,” in 2023 IEEE international conference on blockchain and cryptocurrency (ICBC), 2023, pp. 1–2. doi: 10.1109/ICBC56567.2023.10174929.\n\n\n[5] A. Sakurai and K. Shudo, “Impact of the hash rate on the theoretical fork rate of blockchain,” in 2023 IEEE international conference on consumer electronics (ICCE), 2023, pp. 1–4. doi: 10.1109/ICCE56470.2023.10043538.\n\n\n[6] T. Hasegawa, A. Sakurai, and K. Shudo, “Quick notification of block generation using bloom filter in a blockchain,” in 2023 IEEE symposium on computers and communications (ISCC), 2023, pp. 457–463. doi: 10.1109/ISCC58397.2023.10218308.\n\n\n[7] A. Sakurai and K. Shudo, “Accelerating block propagation with sender switchover in a blockchain,” in 2023 IEEE symposium on computers and communications (ISCC), 2023, pp. 1086–1089. doi: 10.1109/ISCC58397.2023.10217880."
+  },
+  {
+    "objectID": "publications.html#others",
+    "href": "publications.html#others",
+    "title": "Publications",
+    "section": "Others",
+    "text": "Others\n\n\n[1] A. Sakurai and K. Shudo, “FiberPool: Leveraging multiple blockchains for decentralized pooled mining.” 2025. Available: https://arxiv.org/abs/2501.15459\n\n\n[2] A. Sakurai and K. Shudo, “The rich get richer in bitcoin mining induced by blockchain forks.” 2025. Available: https://arxiv.org/abs/2506.13360\n\n\n[3] A. Sakurai and K. Shudo, “Model-based calculation method of mining fairness in blockchain.” 2025. Available: https://arxiv.org/abs/2406.00595\n\n\n[4] A. Sakurai and K. Shudo, “A fully local last-generated rule in a blockchain.” 2024. Available: https://arxiv.org/abs/2411.08439"
   }
 ]
