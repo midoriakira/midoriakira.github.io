@@ -7,8 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: cv.qmd
-      #   text: CV
       - href: publications.qmd
         text: Publications
       - href: contact.qmd
