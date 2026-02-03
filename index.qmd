@@ -3,3 +3,28 @@ title: "Akira Sakurai Homepage"
 ---
 
 I am a Ph.D student at Kyoto University. My research focus is mainly on blockchain, although I am broadly interested in all aspects of computer science.
+
+## Education
+
+- **Ph.D. Student, Graduate School of Informatics**, Kyoto University  
+  *2024–present*  
+  Advisor: Kazuyuki Shudo
+
+- **M.S., Mathematical and Computing Science (Shudo Lab.)**, Tokyo Institute of Technology  
+  *2022–2024*
+
+- **B.S., Mathematical and Computing Science**, School of Computing, Tokyo Institute of Technology  
+  *2019–2022*
+
+## Publications
+See **Publications** page.
+
+## Awards & Honors
+
+- **Best Student Paper Award**, IEEE ICCE 2023
+  — “Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain”
+
+## Grants
+
+- **DC1**, JSPS KAKENHI (Project No. 24KJ1517), Kyoto University, *Apr 23, 2024 – Mar 31, 2027*  
+  **Project:** “ネットワークの観点からの分散台帳の研究”

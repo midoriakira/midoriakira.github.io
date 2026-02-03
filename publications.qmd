@@ -1,11 +1,36 @@
 ---
 title: Publications
-bibliography: publications.bib
-nocite: |
-  @*
+
+# multibib を使うための設定
+filters:
+  - multibib
+citeproc: false
+validate-yaml: false
+
+# 3カテゴリの .bib をマップで渡す（キー名が重要）
+bibliography:
+  journals: pub_journals.bib
+  confs: pub_confs.bib
+  others: pub_others.bib
+
+# 引用してなくても全件出
+nocite: '@*'
+
+# 年代順（新しい順）にしたい場合：後述のCSLを指定
+csl: csl/ieee-year-desc.csl
 ---
 
-## Publications
+## Journal Articles
 
-::: {#refs}
+::: {#refs-journals}
+:::
+
+## Conference Papers
+
+::: {#refs-confs}
+:::
+
+## Others
+
+::: {#refs-others}
 :::
