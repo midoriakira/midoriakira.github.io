@@ -7,39 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Ph.D. Student, Graduate School of Informatics, Kyoto University\n2024–present\nAdvisor: Kazuyuki Shudo\nM.S., Mathematical and Computing Science (Shudo Lab.), Tokyo Institute of Technology\n2022–2024\nB.S., Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology\n2019–2022"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "",
-    "text": "Ph.D. Student, Graduate School of Informatics, Kyoto University\n2024–present\nAdvisor: Kazuyuki Shudo\nM.S., Mathematical and Computing Science (Shudo Lab.), Tokyo Institute of Technology\n2022–2024\nB.S., Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology\n2019–2022"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nSee Publications page."
-  },
-  {
-    "objectID": "cv.html#awards-honors",
-    "href": "cv.html#awards-honors",
-    "title": "CV",
-    "section": "Awards & Honors",
-    "text": "Awards & Honors\n\nBest Student Paper Award, IEEE ICCE 2023 — “Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain”"
-  },
-  {
-    "objectID": "cv.html#grants",
-    "href": "cv.html#grants",
-    "title": "CV",
-    "section": "Grants",
-    "text": "Grants\n\nDC1, JSPS KAKENHI (Project No. 24KJ1517), Kyoto University, Apr 23, 2024 – Mar 31, 2027\nProject: “ネットワークの観点からの分散台帳の研究”"
+    "text": "Email: akilucky0304 [at] gmail.com\nGitHub: https://github.com/midoriakira\nORCID: https://orcid.org/0009-0003-5147-5487"
   },
   {
     "objectID": "index.html",
@@ -75,13 +47,6 @@
     "title": "Akira Sakurai Homepage",
     "section": "Grants",
     "text": "Grants\n\nDC1, JSPS KAKENHI (Project No. 24KJ1517), Kyoto University, Apr 23, 2024 – Mar 31, 2027\nProject: “ネットワークの観点からの分散台帳の研究”"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: akilucky0304 [at] gmail.com\nGitHub: https://github.com/midoriakira\nORCID: https://orcid.org/0009-0003-5147-5487"
   },
   {
     "objectID": "publications.html",
