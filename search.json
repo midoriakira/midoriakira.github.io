@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: akilucky0304 [at] gmail.com\nGitHub: https://github.com/midoriakira\nORCID: https://orcid.org/0009-0003-5147-5487"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Akira Sakurai Homepage",
@@ -53,14 +39,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "[1] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[2] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[3] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
+    "text": "[1] A. Sakurai and K. Shudo, “A fully local last-generated rule in a blockchain,” IEEE Access, vol. 14, pp. 90762–90769, 2026, doi: 10.1109/ACCESS.2026.3701042.\n\n\n[2] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[3] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[4] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "[1] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[2] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[3] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
+    "text": "[1] A. Sakurai and K. Shudo, “A fully local last-generated rule in a blockchain,” IEEE Access, vol. 14, pp. 90762–90769, 2026, doi: 10.1109/ACCESS.2026.3701042.\n\n\n[2] A. Sakurai and K. Shudo, “Model-Based Calculation Method of Mining Fairness in Blockchain ,” IEEE Open Journal of the Computer Society, vol. 7, no. 1, pp. 129–141, Jan. 2026, doi: 10.1109/OJCS.2025.3644694.\n\n\n[3] T. Nakai, A. Sakurai, S. Hironaka, and K. Shudo, “A formulation of the trilemma in proof of work blockchain,” IEEE Access, vol. 12, pp. 80559–80578, 2024, doi: 10.1109/ACCESS.2024.3410025.\n\n\n[4] A. Sakurai and K. Shudo, “Tie-breaking rule based on partial proof of work in a blockchain,” IEEE Access, vol. 12, pp. 197999–198014, 2024, doi: 10.1109/ACCESS.2024.3521426."
   },
   {
     "objectID": "publications.html#conference-papers",
@@ -75,5 +61,19 @@
     "title": "Publications",
     "section": "Others",
     "text": "Others\n\n\n[1] A. Sakurai and K. Shudo, “FiberPool: Leveraging multiple blockchains for decentralized pooled mining.” 2025. Available: https://arxiv.org/abs/2501.15459\n\n\n[2] A. Sakurai and K. Shudo, “The rich get richer in bitcoin mining induced by blockchain forks.” 2025. Available: https://arxiv.org/abs/2506.13360\n\n\n[3] A. Sakurai and K. Shudo, “Model-based calculation method of mining fairness in blockchain.” 2025. Available: https://arxiv.org/abs/2406.00595\n\n\n[4] A. Sakurai and K. Shudo, “A fully local last-generated rule in a blockchain.” 2024. Available: https://arxiv.org/abs/2411.08439"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: akilucky0304 [at] gmail.com\nGitHub: https://github.com/midoriakira\nORCID: https://orcid.org/0009-0003-5147-5487"
   }
 ]

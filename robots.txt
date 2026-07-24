@@ -1,1 +1,1 @@
-Sitemap: https://midoriakira.github.io/my_site/sitemap.xml
+Sitemap: https://midoriakira.github.io/sitemap.xml

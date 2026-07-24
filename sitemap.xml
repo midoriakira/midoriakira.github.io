@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://midoriakira.github.io/my_site/about.html</loc>
-    <lastmod>2026-02-03T17:22:33.831Z</lastmod>
+    <loc>https://midoriakira.github.io/index.html</loc>
+    <lastmod>2026-07-24T11:54:18.002Z</lastmod>
   </url>
   <url>
-    <loc>https://midoriakira.github.io/my_site/contact.html</loc>
-    <lastmod>2026-02-03T17:22:33.831Z</lastmod>
+    <loc>https://midoriakira.github.io/publications.html</loc>
+    <lastmod>2026-07-24T11:54:18.002Z</lastmod>
   </url>
   <url>
-    <loc>https://midoriakira.github.io/my_site/index.html</loc>
-    <lastmod>2026-02-03T17:22:33.832Z</lastmod>
+    <loc>https://midoriakira.github.io/about.html</loc>
+    <lastmod>2026-07-24T11:54:18.001Z</lastmod>
   </url>
   <url>
-    <loc>https://midoriakira.github.io/my_site/publications.html</loc>
-    <lastmod>2026-02-03T17:22:33.833Z</lastmod>
+    <loc>https://midoriakira.github.io/contact.html</loc>
+    <lastmod>2026-07-24T11:54:18.001Z</lastmod>
   </url>
 </urlset>
