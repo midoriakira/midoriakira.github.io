@@ -514,6 +514,7 @@
           <text macro="access"/>
         </else>
       </choose>
+      <text variable="note" prefix=" " suffix="."/>
     </layout>
   </bibliography>
 </style>
