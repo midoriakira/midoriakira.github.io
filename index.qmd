@@ -17,7 +17,7 @@ I am a Ph.D student at Kyoto University. My research focus is mainly on blockcha
   *2019–2022*
 
 ## Publications
-See **Publications** page.
+See [**Publications**](publications.qmd) page.
 
 ## Awards & Honors
 
